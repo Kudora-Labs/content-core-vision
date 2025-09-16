@@ -1,4 +1,4 @@
-# Introduction to Kudora
+# The World of Kudora
 
 Kudora is not simply a blockchain.  
 It is a **vision of what the digital world can become** when purpose, recognition, and community are placed at the core.
