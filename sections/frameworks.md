@@ -61,10 +61,10 @@ Tracked per framework:
 ---
 
 ## Example Launch Journey (90-Minute Startup)
-1. Pick *Local Economy Framework* ΓåÆ configure parameters (scope, roles, token policy).  
-2. Attach *Reputation & Identity Module* ΓåÆ set recognition thresholds for participation.  
-3. Enable *Micro-Governance* ΓåÆ install default proposal schema.  
-4. Publish v0 ΓåÆ immediate mission posting + recognition routing.  
+1. Pick *Local Economy Framework* → configure parameters (scope, roles, token policy).  
+2. Attach *Reputation & Identity Module* → set recognition thresholds for participation.  
+3. Enable *Micro-Governance* → install default proposal schema.  
+4. Publish v0 → immediate mission posting + recognition routing.  
 5. Iterate using real-time telemetry dashboard.
 
 ---

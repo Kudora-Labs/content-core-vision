@@ -40,7 +40,7 @@ Legacy metrics (TPS, TVL, raw addresses) are *necessary but insufficient*. Kudor
 ## Anti-Metric Gaming Safeguards
 - Median + distributional views (not just averages).
 - Multi-signal composites (e.g., Recognition Velocity excludes bot-flagged addresses).
-- Dynamic anomaly detection ΓåÆ manual review routes.
+- Dynamic anomaly detection → manual review routes.
 - Transparent metric formulas (open spec) to build trust.
 
 ---
@@ -49,7 +49,7 @@ Legacy metrics (TPS, TVL, raw addresses) are *necessary but insufficient*. Kudor
 These metrics tell an external audience:
 - *This ecosystem knows what progress actually looks like.*
 - *It can detect decay early.*
-- *It compounds knowledge; failure isnΓÇÖt waste.*
+- *It compounds knowledge; failure isn't waste.*
 
 ---
 
@@ -59,7 +59,7 @@ These metrics tell an external audience:
 - Recognition Velocity < 14 days
 - Contribution Yield > 60%
 - Trust Integrity > 90%
-- Synergy Index ΓëÑ 3 frameworks / project (after quarter 2)
+- Synergy Index ≥ 3 frameworks / project (after quarter 2)
 
 ---
 

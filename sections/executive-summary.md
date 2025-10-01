@@ -1,6 +1,6 @@
 # Executive Summary
 
-> We didn't build another "fast chain." We built the **builder economy** — where *we don't reward those who wait, we reward those who build*.
+> We didn't just build another "fast or cheap chain." We built the **builder economy**, where *we don't reward those who wait, we reward those who build*.
 
 Kudora is a **values-driven Layer 1 ecosystem** that re-centers Web3 around *recognition, contribution, and ethical alignment*. Instead of optimizing purely for speed, throughput, or speculative yield, Kudora redefines the unit of value itself: **recognition as currency**.
 
@@ -41,14 +41,14 @@ AI acceleration + speculative stagnation + governance fatigue have created a vac
 
 ## Early Success Signals (Target Metrics)
 - Activation: % of new builders earning first Kudos within 72h.
-- Recognition Velocity: Median time from first contribution ΓåÆ governance-eligible reputation threshold.
+- Recognition Velocity: Median time from first contribution → governance-eligible reputation threshold.
 - Contribution Yield: Ratio of inflation flowing to active contributors vs passive capital.
 - Signal Density: Curated opportunity count / total inbound noise.
 - Synergy Index: Reuse multiplier (avg frameworks / project launch).
 - Trust Integrity: Verified human contributor ratio vs total active addresses.
 
 ## Narrative Promise
-Kudora is **the delivery chain of Web3** ΓÇö transforming potential into shipped, ethical, human-centered systems. It is *not* another arena for speculative churn; it is the place where *builders turn intention into shared civilization infrastructure*.
+Kudora is **the delivery chain of Web3** — transforming potential into shipped, ethical, human-centered systems. It is *not* another arena for speculative churn; it is the place where *builders turn intention into shared civilization infrastructure*.
 
 > **Tagline**: *We reward those who build.*  
 > **Subline**: *Recognition becomes currency. Contribution becomes identity. Ethics become acceleration.*

@@ -57,21 +57,21 @@ Loop tightens as friction declines and attribution fidelity increases.
 ---
 
 ## Example Micro-Journey
-- Day 1: Designer improves onboarding flow (PR merged) ΓåÆ initial Kudos.
-- Week 2: Flow adopted by 4 projects ΓåÆ reuse multiplier triggers bonus.
+- Day 1: Designer improves onboarding flow (PR merged) → initial Kudos.
+- Week 2: Flow adopted by 4 projects → reuse multiplier triggers bonus.
 - Month 1: Designer joins governance deliberations; voting weight unlocked.
-- Month 3: Invited to co-lead framework refinement mission ΓåÆ accelerated influence.
+- Month 3: Invited to co-lead framework refinement mission → accelerated influence.
 
 ---
 
 ## Loop Flywheel Diagram (Conceptual)
 ```
-[Contribute] ΓåÆ [Verify] ΓåÆ [Recognize] ΓåÆ [Reputation Graph] ΓåÆ [Influence / Access] ΓåÆ [Better Coordination] ΓåÆ [Higher Impact Output] Γå║
+[Contribute] → [Verify] → [Recognize] → [Reputation Graph] → [Influence / Access] → [Better Coordination] → [Higher Impact Output] ↰
 ```
 
 ---
 
 ## Why This Matters Externally
-Investors, partners, and ecosystem integrators gain a *transparent talent and trust index*ΓÇöreducing due diligence time and increasing conviction.
+Investors, partners, and ecosystem integrators gain a *transparent talent and trust index*—reducing due diligence time and increasing conviction.
 
-> *The Recognition Loop converts effort into enduring legitimacy ΓÇö the rarest asset in an age of synthetic output.*
+> *The Recognition Loop converts effort into enduring legitimacy — the rarest asset in an age of synthetic output.*
