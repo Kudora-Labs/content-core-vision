@@ -3,12 +3,12 @@ This repository holds the foundational documents that define Kudora’s vision, 
 
 ## How to Contribute to the Whitepaper
 
-The whitepaper is organized into multiple sections, each as a separate Markdown file in the `sections/` folder. The order and inclusion of sections is managed by the `whitepaper.json` manifest file.
+The whitepaper is organized into multiple sections, each as a separate Markdown file in the `sections/` folder. The order and inclusion of sections is managed by the `sections.json` manifest file.
 
 ### Editing Sections
 - Each section is a Markdown file (e.g. `introduction.md`, `vision.md`).
 - To edit a section, open its file and update the content using Markdown syntax.
-- Do not change the filename unless you also update `whitepaper.json`.
+- Do not change the filename unless you also update `sections.json`.
 
 ### Structure and Formatting
 - Use headings to organize content:
@@ -18,7 +18,7 @@ The whitepaper is organized into multiple sections, each as a separate Markdown 
 - **Maximum depth:** Only use up to three heading levels (H1, H2, H3). Do not use H4 or deeper.
 - Keep content clear and concise. Use lists, quotes, and code blocks as needed.
 
-### Manifest File (`whitepaper.json`)
+### Manifest File (`sections.json`)
 - The manifest lists all section files in order. Example:
   ```json
   {
